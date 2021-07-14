@@ -1,1 +1,1 @@
-# CodeChef---Solved-Questions
+# CodeChef-Solved-Questions
